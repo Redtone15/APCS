@@ -10,7 +10,7 @@ public class Tsk1 {
         int maxIndex = text.length() - subLength;
 
         for (int i = 0; i <= maxIndex; i++) {
-            if (text.substring(i, i + subLength).equalsIgnoreCase(sub)) {
+            if (text.substring(i, i + subLength).equals(sub)) {
                 count++;
             }
         }

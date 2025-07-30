@@ -3,7 +3,7 @@ package Hw06;
 public class Tsk2 {
 
     public class HiddenWord {
-        private String hidden;
+        private final String hidden;
 
         public HiddenWord(String hiddenWord) {
             hidden = hiddenWord;
