@@ -1,4 +1,4 @@
-package Hw02;
+package Hw02.McQ;
 
 public class MCQ {
     public static void main(String[] args) {

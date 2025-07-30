@@ -1,4 +1,4 @@
-package Hw04;
+package Hw04.McQ;
 
 public class McQ10 {
     public static void add1(int m)

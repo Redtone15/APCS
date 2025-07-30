@@ -1,1 +1,10 @@
-My AP CS A class work and homework.
+
+
+public class Hello{
+
+public static void main(String[] args)
+    {
+        System.out.println("Hello World") 
+    }
+
+}
